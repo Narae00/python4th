@@ -1,0 +1,19 @@
+a = 100
+b = 200
+print(a)
+print(b)
+
+c = a+b
+print( a,'+',b,'=',c)
+
+msg1 = '안녕'
+msg2 = "하세요"
+
+print(msg1 + msg2)
+msg3 = msg1 *3
+print(msg3)
+나는변수 = 300
+print(나는변수)
+mymsg = int(input('뭔갈 말해봐라'))
+print(mymsg)
+print(mymsg + 100)
