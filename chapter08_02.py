@@ -109,3 +109,4 @@ def func11(a):
     print(f'func11-b : {b}')
     return a+b+c
 print(func11(8))
+print(f'global b: {b}')
